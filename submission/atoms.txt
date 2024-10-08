@@ -1,0 +1,6 @@
+{header = {ref_count = 2}, len = 3, is_wide_char = 0 '\000', hash = 25275989, atom_type = 1 '\001', hash_next = 340, u = {
+    str8 = 0x55555569af70 "foo", str16 = 0x55555569af70}}
+{header = {ref_count = 2}, len = 3, is_wide_char = 0 '\000', hash = 24995634, atom_type = 1 '\001', hash_next = 936, u = {
+    str8 = 0x555555695950 "bar", str16 = 0x555555695950}}
+{header = {ref_count = 2}, len = 5, is_wide_char = 0 '\000', hash = 343954668, atom_type = 1 '\001', hash_next = 656, u = {
+    str8 = 0x555555695e60 "binky", str16 = 0x555555695e60}}
